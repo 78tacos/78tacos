@@ -8,7 +8,7 @@ My background is in both computer science and IT, including IT work at LCMS Foun
 
 I am studying for Microsoft AZ-104. That exam is in progress, and I am not certified.
 
-I am looking for a software role at Boeing.
+I am aiming for aerospace and defense software and test roles.
 
 [78tacos.github.io](https://78tacos.github.io)
 
@@ -20,7 +20,7 @@ Educational C++20 avionics bus simulator and test-automation platform. The seque
 
 The repository describes it as a learning project: not certified or flight software.
 
-**Build log — coming soon.** It will be a section of [78tacos.github.io](https://78tacos.github.io). There is no post URL yet.
+**[Build log](https://78tacos.github.io/blog/) — coming soon.**
 
 ## Selected work
 
